@@ -12,6 +12,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>
-   <img src="images/questionmark.png"/><a href="tools/index.jsp">Welcome again * 3 to troubleshooting tools</a>
+   <img src="images/questionmark.png"/><a href="tools/index.jsp">Welcome again * 4 to troubleshooting tools</a>
 </p>
 <%@ include file="/footer.jsp" %>
